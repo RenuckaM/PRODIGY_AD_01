@@ -4,7 +4,8 @@ A simple and intuitive calculator app built with Flutter. This app allows users 
 
 ## Screenshots
 
-![image]()
+(![image](https://github.com/user-attachments/assets/61b70b6c-010b-4b79-9a08-23e63531c4e5)
+)
 
 ## Features
 
