@@ -1,4 +1,4 @@
-# PRODIGY_AD_01 - Calculator App
+# PRODIGY_AD_01 - Calculator App in Flutter
 
 A simple and intuitive calculator app built with Flutter. This app allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division with a responsive and visually appealing user interface.
 
